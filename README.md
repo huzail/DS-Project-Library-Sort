@@ -36,3 +36,5 @@ We are using Arrays in this project but one can also use Lists in order to imple
               We are also showing detail steps of our working of algorithm with output
               NOTE: Library Sort is made using the concept of sorting books in library so as books can not be negative so negative values are also not given as input in the code and can cause errors in final steps
 
+## Poster
+We have also presented our project infront of our teacher so we are uploaded our project poster with our code file you can find it in library sort folder.
